@@ -1,2 +1,2 @@
 # FPGA_VoiceChanger
-eeic後期実験で作成した、FPGA上で動作するボイスチェンジャー
+eeic後期実験で作成した、FPGA上で動作するボイスチェンジャー。ic2周りとkey triggerは権利の関係で省略
